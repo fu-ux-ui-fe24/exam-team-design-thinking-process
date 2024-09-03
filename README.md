@@ -31,13 +31,13 @@ Mer info kommer...
 
 Mer info kommer...
 
-**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review fredagen 20/9, kl 9:00**
+**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review (datum kommer)**
 
 ### Test
 
 Mer info kommer...
 
-**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review fredagen 27/9, kl 9:00**
+**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review (datum kommer)**
 
 ### Test forts.
 
