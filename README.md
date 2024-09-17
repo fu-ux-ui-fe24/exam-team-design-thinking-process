@@ -41,7 +41,7 @@ Dokumentation: Redogör för er idéskapandeprocess från problem till lösning.
 3. Kom överens om vilken design ni skall satsa på och skapa en lo-fi-prototyp i Figma av er favoritdesign.
 4. Skapa alla de sidor som en besökare behöver ta sig igenom för att interagera med ert gränssnitt (max 4).
 
-**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review 19 eller 20/9**
+**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review 19/9 kl 13:00**
 
 ### Test
 
