@@ -61,6 +61,8 @@ Dokumentation: Redogör för er idéskapandeprocess från problem till lösning.
 3. Testa era prototyper på minst 5 användare
 4. Skriv en kortare testrapport
 
+OBS! Om ni vill spela in användares förehavanden på skärmen, alt. spela in deras röst och/eller ansikten MÅSTE ni även skapa ett medgivandedokument för dem att skriva under.
+
 ## Redovisning 3/10 alt. 4/10
 
 Ni kommer att få presentera ert arbete från start till resultat vid Code Review under v40. Gärna Power Point för att göra det mer visuellt. Mellan 15 - 20 minuter per grupp.
