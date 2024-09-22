@@ -45,18 +45,28 @@ Dokumentation: Redogör för er idéskapandeprocess från problem till lösning.
 
 ### Test
 
-Mer info kommer...
+1. Bestäm er för om ni vill testa en eller två prototyper
+2. Bestäm VAD det är ni skall testa
+3. Färdigställ era interaktiva prototyper för det/de scenario/n ni vill testa
+4. Skriv ner ett scenario innehållandes er testpersons uppgift, samt eventuella intervjufrågor efteråt.
+5. Skapa en testplan för ert test, innehållandes **mål & syfte**, **testmetod**, **testuppgifter**, **roller** (vilka gör vad), samt **datainsamling**.
+6. Dyk upp väl förberedda för att testa era prototyper på torsdag 
 
-**Ni skall vara färdiga med detta och presentera ert hittills slutförda arbete vid Code Review (datum kommer)**
+**Ni skall vara färdiga med detta och testa era prototyper på era klasskamrater vid Code Review 26/9**
 
 ### Test forts.
 
-## Redovisning 3/10
+1. Dra valfria slutsater från era tester vid föregående Code Review
+2. Utifrån ovan nämnda slutsatser, gör eventuella justeringar av er testplan och era prototyper (endast mindre justeringar).
+3. Testa era prototyper på minst 5 användare
+4. Skriv en kortare testrapport
 
-Mer info kommer...
+## Redovisning 3/10 alt. 4/10
+
+Ni kommer att få presentera ert arbete från start till resultat vid Code Review under v40. Gärna Power Point för att göra det mer visuellt. Mellan 15 - 20 minuter per grupp.
 
 ## Inlämning
-Ni lämnar in en länk till gruppens delade Google Docs-dokument. Dokumentet skal utöver dokumentation av projektets alla delar, även innehålla en länk till er(a) Figma-skisser, prototyper, samt ert slutliga designförslag.
+Ni lämnar in en länk till gruppens delade Google Docs-dokument. Dokumentet skal utöver dokumentation av projektets alla delar, även innehålla en länk till er(a) Figma-skisser, prototyper, samt ert slutliga designförslag. Deadline 4/10, kl 23:59.
 
 ## Bedömning
 
