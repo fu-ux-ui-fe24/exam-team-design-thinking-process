@@ -59,7 +59,7 @@ Dokumentation: Redogör för er idéskapandeprocess från problem till lösning.
 1. Dra valfria slutsater från era tester vid föregående Code Review
 2. Utifrån ovan nämnda slutsatser, gör eventuella justeringar av er testplan och era prototyper (endast mindre justeringar).
 3. Testa era prototyper på minst 5 användare
-4. Skriv en kortare testrapport
+4. Skriv en kortare testrapport (ca 1 A4-sida)
 
 OBS! Om ni vill spela in användares förehavanden på skärmen, alt. spela in deras röst och/eller ansikten MÅSTE ni även skapa ett medgivandedokument för dem att skriva under.
 
